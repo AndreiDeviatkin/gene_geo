@@ -83,8 +83,8 @@ Israel,32.085300_34.781769
 Italy,41.902782_12.496365
 Jordan,31.945368_35.928371
 Kazakhstan-Actoberegion,50.294920_57.203100
-Kazakhstan-AlmaAta,54.644348_53.138390
-Kazakhstan-Almatyregion,54.644348_53.138390
+Kazakhstan-AlmaAta,43.222015_76.851250
+Kazakhstan-Almatyregion,43.222015_76.851250
 Kazakhstan-EastKazakhstan,49.989080_82.570680
 Kazakhstan-SouthKazakhstan,43.320782_68.274559
 Kazakhstan-WestKazakhstan,51.246750_51.443390
@@ -122,7 +122,7 @@ Russia-Altai,53.347771_83.778358
 Russia-Astrakhan,46.347141_48.026459
 Russia-Belgorod,50.596722_36.587780
 Russia-Buryatia,51.837286_107.545016
-Russia-Crimea,44.938017_34.072640
+Crimea,44.938017_34.072640
 Russia-Dagestan,42.967142_47.478867
 Russia-FranzJosephLand,80.85745901111964_60.69485893556205
 Russia-Khabarovsk,48.480820_135.072983
