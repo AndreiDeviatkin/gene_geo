@@ -1,10 +1,12 @@
 ##########
 
 about application using
+
 ##########
 
 online version is available at:
 https://andreideviatkin.shinyapps.io/gene-geo/
+
 ##########
 
 
@@ -39,6 +41,7 @@ Andrei
 ###########
 
 about data format
+
 ###########
 
 This application needs two files:
