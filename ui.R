@@ -23,15 +23,16 @@ ui <- navbarPage(
                     ),
                     mainPanel(
                       fluidRow(
-                        splitLayout(
-                                cellWidths = c("100%", "100%"), 
+                      
                          tagList(h4("Gene-geo distance plot"), plotOutput("dist_plot",
+                                                                          height = "700px",
+                                                                          width  = "700px",
                                                                   brush = brushOpts(id = "plot1_brush"),
                                                                   click = clickOpts(id = "plot1_click")
                                                                   )
                                  
                           )
-                        )
+                        
                     ),
                     fluidRow(
                       #verbatimTextOutput("mm"),
@@ -43,10 +44,100 @@ ui <- navbarPage(
         ),
 
 #------------------ABOUT APP TAB
-        tabPanel("About",
+        tabPanel("About application using",
                    mainPanel(
-                     p("The description of this app")
+                      p("
+                        For citation please use this paper:
+                       "),
+                      p("
+                      UNDER REVISION
+                       "),
+                     p("
+                        This application is implemented at shinyapps.io platform for demonstration of its possibilities.
+                       However, free plan at this platform has some computational limitations.
+                       "),
+                     p("
+                       The same application can be run in a usual computer after completing three steps:
+                       "),
+                     p("
+                       1. Install R. 
+                       "),
+                     a("
+                     https://cran.r-project.org/bin/windows/base/
+                     "),
+                     p("
+                       2. Install Rstudio. 
+                                             "),
+                     a("
+                      https://www.rstudio.com/products/rstudio/
+                     "),
+                     p("
+                     3. Download all files from 
+                     "),
+                     a("
+                      https://github.com/AndreiDeviatkin/gene_geo
+                               "),
+                     p("
+                        into separate folder. 
+                       Open in Rstudio 'ui.R' -> click on 'Run App' button at topright corner of the console. 
+                       Application will begin to process your task.
+                      "),
+                     p("
+                       If you have any problems while using 'Gene-geo' please don't hesistate to contact with me,
+                       "),
+                     a("
+                       andreideviatkin@gmail.com
+                      "),
+                     p("
+                       have a nice everything,
+                       "),
+                     p("
+                       Andrei
+                       ")
                    )
-        )
+        ),
+tabPanel("About data format",
+         mainPanel(
+                 p("
+                       This application needs two files:
+                       "),
+                 p("
+                     1. fasta alignment
+                       "),
+                 p("
+                        fasta descriptor (symbols after '>') must contain information about place of virus collection
+                       "),
+                 p("
+                       separator in fasta descriptor should be '_'
+                       "),
+                 p("
+                    place of virus collection should be located at the last place   
+                       "),
+                 p("
+                       Fasta descriptor example: '>AY352458_isolate_857r_country_Russia-Khabarovsk'
+                                             "),
+                  p("
+                       Fasta file example: 
+                     "),
+                 a("
 
+https://raw.githubusercontent.com/AndreiDeviatkin/gene_geo/main/data/fasta/arctic-like_geo_natural.fas            
+                   
+                   "),
+                 p("
+                    2.   text file with coordinates of used regions
+                      "),
+                 p("
+                       One line example: REGION,LAT_LONG
+                       "),
+                 p("
+                       File example:
+                       "),
+                 a("
+https://raw.githubusercontent.com/AndreiDeviatkin/gene_geo/main/data/regions_coordinates/regions_coord.txt                   
+                   
+                   "),
+
+         )
+)
 )
