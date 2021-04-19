@@ -1,9 +1,12 @@
-#######################################################
+##########
+
 about application using
-#######################################################
+##########
+
 online version is available at:
 https://andreideviatkin.shinyapps.io/gene-geo/
-#######################################################
+##########
+
 
 For citation please use this paper:
 
@@ -33,9 +36,10 @@ have a nice everything,
 
 Andrei
 
-############################################
+###########
+
 about data format
-############################################
+###########
 
 This application needs two files:
 
