@@ -9,9 +9,11 @@ To run this application on personal computer please complete the following steps
 1. Install R (Version 4.0 or above)
 
 https://cran.r-project.org/bin/windows/base/
+
 2. Install Rstudio.
 
 https://www.rstudio.com/products/rstudio/
+
 3. Download all files from
 
 https://github.com/AndreiDeviatkin/gene_geo
