@@ -18,14 +18,23 @@ https://www.rstudio.com/products/rstudio/
 Please run following commands in Rstudio:
 
 install.packages("shiny")
+
 install.packages("DT")
+
 install.packages("shinyjs")
+
 install.packages("shinycssloaders")
+
 install.packages("shinythemes")
+
 install.packages("ape")
+
 install.packages("otuSummary")
+
 install.packages("ggplot2")
+
 install.packages("geosphere")
+
 install.packages("scales")
 
 4. Download all files from
