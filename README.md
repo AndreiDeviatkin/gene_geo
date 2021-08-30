@@ -14,33 +14,15 @@ https://cran.r-project.org/bin/windows/base/
 
 https://www.rstudio.com/products/rstudio/
 
-3. Install packages, necessary for the application using.
-Please run following commands in Rstudio:
-
-install.packages("shiny")
-
-install.packages("DT")
-
-install.packages("shinyjs")
-
-install.packages("shinycssloaders")
-
-install.packages("shinythemes")
-
-install.packages("ape")
-
-install.packages("otuSummary")
-
-install.packages("ggplot2")
-
-install.packages("geosphere")
-
-install.packages("scales")
 
 4. Download all files from
 
 https://github.com/AndreiDeviatkin/gene_geo
-into separate folder. Open Open the file 'ui.R' in Rstudio -> click on 'Run App' button at topright corner of the console. The application will begin to process your task.
+into separate folder. 
+
+Open the file 'packages_installation.R' in Rstudio -> select all lines -> click on 'Run' button at topright corner of the console. packages needed for the application running will be installed.
+
+Open the file 'ui.R' in Rstudio -> click on 'Run App' button at topright corner of the console. The application will begin to process your task.
 
 If you have any problems while using 'Gene-geo' please don't hesitate to contact me,
 
