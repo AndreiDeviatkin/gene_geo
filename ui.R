@@ -1,6 +1,6 @@
 # Define UI for application
 ui <- navbarPage(
-        "Exploring concordance between genetics and geography",
+        "Exploring concordance between genetic and geographic distances",
          theme = "styles.css",
 
         
