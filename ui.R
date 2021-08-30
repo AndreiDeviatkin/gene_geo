@@ -78,8 +78,13 @@ ui <- navbarPage(
                       https://github.com/AndreiDeviatkin/gene_geo
                                "),
                      p("
-                        into separate folder. 
-                       Open in Rstudio 'ui.R' -> click on 'Run App' button at topright corner of the console. 
+                       into separate folder. 
+                      "),                     
+                      p("
+                       Open in Rstudio 'packages_installation.R' -> select all lines -> click on 'Run' button at topright corner of the console. Packages needed for the application running will be installed.
+                      "),
+                     p("
+                        Open in Rstudio 'ui.R' -> click on 'Run App' button at topright corner of the console. 
                        Application will begin to process your task.
                       "),
                      p("
