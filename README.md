@@ -20,7 +20,7 @@ https://www.rstudio.com/products/rstudio/
 https://github.com/AndreiDeviatkin/gene_geo
 into separate folder. 
 
-Open the file 'packages_installation.R' in Rstudio -> select all lines -> click on 'Run' button at topright corner of the console. packages needed for the application running will be installed.
+Open the file 'packages_installation.R' in Rstudio -> select all lines -> click on 'Run' button at topright corner of the console. Packages needed for the application running will be installed.
 
 Open the file 'ui.R' in Rstudio -> click on 'Run App' button at topright corner of the console. The application will begin to process your task.
 
