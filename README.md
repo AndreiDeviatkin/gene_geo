@@ -15,7 +15,7 @@ https://cran.r-project.org/bin/windows/base/
 https://www.rstudio.com/products/rstudio/
 
 
-4. Download all files from
+3. Download all files from
 
 https://github.com/AndreiDeviatkin/gene_geo
 into separate folder. 
