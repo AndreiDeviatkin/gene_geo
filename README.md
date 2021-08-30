@@ -18,6 +18,7 @@ https://www.rstudio.com/products/rstudio/
 3. Download all files from
 
 https://github.com/AndreiDeviatkin/gene_geo
+
 into separate folder. 
 
 Open the file 'packages_installation.R' in Rstudio -> select all lines -> click on 'Run' button at topright corner of the console. Packages needed for the application running will be installed.
@@ -27,6 +28,7 @@ Open the file 'ui.R' in Rstudio -> click on 'Run App' button at topright corner 
 If you have any problems while using 'Gene-geo' please don't hesitate to contact me,
 
 andreideviatkin@gmail.com
+
 kind regards,
 
 Andrei
@@ -47,6 +49,7 @@ Fasta descriptor example: '>AY352458_isolate_857r_country_Russia-Khabarovsk'
 Fasta file example:
 
 https://raw.githubusercontent.com/AndreiDeviatkin/gene_geo/main/data/fasta/arctic-like_geo_natural.fas
+
 2. text file with coordinates of geographic regions
 
 One line example: REGION,LAT_LONG
