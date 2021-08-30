@@ -53,14 +53,13 @@ ui <- navbarPage(
                       UNDER REVISION
                        "),
                      p("
-                        This application is implemented at shinyapps.io platform for demonstration of its possibilities.
-                       However, free plan at this platform has some computational limitations.
+                        This application is implemented on the shinyapps.io platform for demonstration of its possibilities. However, free plan on this platform has some computational limitations.
                        "),
                      p("
-                       The same application can be run in a usual computer after completing three steps:
+                       To run this application on personal computer please complete the following steps:
                        "),
                      p("
-                       1. Install R. 
+                       1. Install R  (Version 4.0 or above). 
                        "),
                      a("
                      https://cran.r-project.org/bin/windows/base/
@@ -84,7 +83,8 @@ ui <- navbarPage(
                        Open in Rstudio 'packages_installation.R' -> select all lines -> click on 'Run' button at topright corner of the console. Packages needed for the application running will be installed.
                       "),
                      p("
-                        Open in Rstudio 'ui.R' -> click on 'Run App' button at topright corner of the console. 
+                        
+                       Open in Rstudio 'ui.R' -> click on 'Run App' button at topright corner of the console. 
                        Application will begin to process your task.
                       "),
                      p("
@@ -94,7 +94,7 @@ ui <- navbarPage(
                        andreideviatkin@gmail.com
                       "),
                      p("
-                       have a nice everything,
+                       kind regards,
                        "),
                      p("
                        Andrei
