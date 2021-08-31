@@ -34,6 +34,7 @@ kind regards,
 Andrei
 
 #########################################################
+
 This application needs two files:
 
 1. Fasta alignment
