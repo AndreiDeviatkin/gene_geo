@@ -2,7 +2,7 @@ For citation please use this paper:
 
 UNDER REVISION
 
-This application is implemented on the shinyapps.io platform for demonstration of its possibilities. However, free plan on this platform has some computational limitations.
+This application is implemented on the shinyapps.io platform for demonstration of its possibilities ( https://andreideviatkin.shinyapps.io/gene-geo/ ). However, free plan on this platform has some computational limitations.
 
 To run this application on personal computer please complete the following steps:
 
