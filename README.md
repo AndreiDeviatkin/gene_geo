@@ -1,6 +1,6 @@
 For citation please use this paper:
 
-Deviatkin AA, Vakulenko YA, Dashian MA, Lukashev AN. Evaluating the Impact of Anthropogenic Factors on the Dissemination of Contemporary Cosmopolitan, Arctic, and Arctic-like Rabies Viruses. Viruses. 2022; 14(1):66. https://doi.org/10.3390/v14010066
+#### Deviatkin AA, Vakulenko YA, Dashian MA, Lukashev AN. Evaluating the Impact of Anthropogenic Factors on the Dissemination of Contemporary Cosmopolitan, Arctic, and Arctic-like Rabies Viruses. Viruses. 2022; 14(1):66. https://doi.org/10.3390/v14010066
 
 This application is implemented on the shinyapps.io platform for demonstration of its possibilities ( https://andreideviatkin.shinyapps.io/gene-geo/ ). However, free plan on this platform has some computational limitations.
 
